@@ -72,7 +72,7 @@ function addPracticeItem() {
   }
 
   if (label === "") {
-    label = "Unsorted";
+    label = "Uncategorized";
   }
 
   practiceNames.push(name);
